@@ -1,4 +1,4 @@
-#Halo, Perkenalkan nama saya Ilman Abidullah
+#Halo, Perkenalkan nama saya **Ilman Abidullah**#
 
 >Berikut data tentang saya:
 >Nama: Ilman Abidullah
@@ -6,5 +6,5 @@
 >Alamat: Komplek Bojong Malaka Indah, Kec. Baleendah, Kab. Bandung
 ---
 
-#About Me
+#About Me#
 Saya seorang pelajar yang sedang mendalami dunia pemrograman, teknologi, dan kreativitas digital. Saat ini saya aktif belajar tentang web development, khususnya di bagian frontend serta backend.
